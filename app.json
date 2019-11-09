@@ -1,0 +1,7 @@
+{
+  "name": "Bicepsfako Layer7",
+  "description": "Node.JS ile yazılmış basit bir layer7 grafiği.",
+  "repository": "https://github.com/rootschwer/layer7",
+  "logo": "",
+  "keywords": ["node", "layer7", "dstat"]
+}

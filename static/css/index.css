@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	font-family: sans-serif;
+	text-align: center;
+	background: #343234;
+	color: #F0EEF0;
+}
+
+.chart {
+	width: 80%;
+}
