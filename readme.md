@@ -1,6 +1,4 @@
 # Layer7-DStat
-[![Discord](https://discordapp.com/api/guilds/539350226947801089/widget.png?style=shield)](https://discord.gg/e2cYZDv)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/UnlimitedBytes/Layer7-DStat)
 
 A simple application for creating a Layer 7 DStat Graph.
 
@@ -12,39 +10,23 @@ These instructions will get you a copy of the project up and running on your loc
 * NPM
 
 ### Installing
-Create a new user:
-```sh
-$ sudo adduser layersevendstat
-```
-
-Navigate to the home directory of the new user:
-```sh
-$ sudo cd /home/layersevendstat
-```
-
 Copy the project to your local system
 ```sh
-$ sudo git clone https://github.com/UnlimitedBytes/Layer7-DStat.git
+$ sudo git clone https://github.com/Bicepsfako/layer7.git
 ```
 
 Navigate into the project folder
 ```sh
-$ sudo cd Layer7-DStat
+$ cd layer7
 ```
 
 Install the required dependencies
 ```sh
-$ sudo npm install
+$ npm install
 ```
 
-Give the new user the ownership of the applications folder and all files in it:
+Start the application by running
 ```sh
-$ sudo chown -R layersevendstat: .
-```
-
-At least switch the user and start the application by running
-```sh
-$ sudo su layersevendstat
 $ npm start
 ```
 
@@ -72,10 +54,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 
 ## Authors
-* **Christian Peterson** - *Initial work* - [UnlimitedBytes](https://github.com/UnlimitedBytes)
-
-See also the list of [contributors](https://github.com/UnlimitedBytes/Layer7-DStat/contributors) who participated in this project.
-
+* **Bicepsfako** - *Initial work*
 
 
 ### License
