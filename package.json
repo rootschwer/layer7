@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "now": "^16.4.4"
   }
 }
